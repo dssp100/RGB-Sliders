@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					8E41EE7A1E131AF8007BB50F = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 3KXG3NAG38;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3KXG3NAG38;
 				INFOPLIST_FILE = "RGB Sliders/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.YachtTechie.RGB-Sliders";
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3KXG3NAG38;
 				INFOPLIST_FILE = "RGB Sliders/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.YachtTechie.RGB-Sliders";
